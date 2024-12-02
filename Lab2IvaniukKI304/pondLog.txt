@@ -1,0 +1,7 @@
+Area: 208 m^2
+Volume: 1248 m^3
+Perimeter: 58 m
+Max value: 16
+Scales each parameter by 3
+Volume(70.0%): 23587.199999999997 m^3
+The pond is deep. Its depth is 18 meters.
