@@ -1,0 +1,9 @@
+Area: 534546 km^2
+Volume: 1603638 km^3
+Perimeter: 3094 km
+Max value: 1026
+Volume(70.0%): 1122546.5999999999 km^3
+Scales each parameter by 3
+The pond is deep. Its depth is 9 km.
+Swimming in the sea with salinity: 35.0 ‰.
+Sea Properties: Length = 3078 km, Width = 1563 km, Depth = 9 km, Salinity = 35.0 ‰.
